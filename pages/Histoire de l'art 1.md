@@ -20,6 +20,7 @@ cat: Histoire de l'art
 -Questions de style: entre tradition et modernité
 -Industrie VS Artisanat
 -Esprit fin de siècle et naissance de l’avant garde ( le projet moderne)
+12
 
 ## Aujourd’hui on va parlé du jardin ( de l’entretiens entre la nature et l’artiste)
  
