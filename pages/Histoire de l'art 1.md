@@ -14,12 +14,12 @@ cat: Histoire de l'art
 
 ### Les sujets que nous allons abordé au cours du Q2
 
--Conscience du patrimoine (du musée au marchée)
--Pharmakon: de l’usage de la technique 
--Révolution industrielle et industries culturelles
--Questions de style: entre tradition et modernité
--Industrie VS Artisanat
--Esprit fin de siècle et naissance de l’avant garde ( le projet moderne)
+- Conscience du patrimoine (du musée au marchée)
+- Pharmakon: de l’usage de la technique 
+- Révolution industrielle et industries culturelles
+- Questions de style: entre tradition et modernité
+- Industrie VS Artisanat
+- Esprit fin de siècle et naissance de l’avant garde ( le projet moderne)
 12
 
 ## Aujourd’hui on va parlé du jardin ( de l’entretiens entre la nature et l’artiste)
